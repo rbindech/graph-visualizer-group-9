@@ -17,9 +17,9 @@ The program then:
 
 ## Team Members
 
-- Name 1 – Student ID
-- Name 2 – Student ID
-- Name 3 – Student ID
+-  Rida Bindech - 5999261011
+-  Emmanuel Santini - 5999261124
+-  Calixte Berthier - 5999261123
 
 ---
 
