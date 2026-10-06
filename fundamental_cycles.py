@@ -45,5 +45,5 @@ def get_fundamental_cycles(graph):
       if edge in edge_to_index:
         row[edge_to_index[edge]] = 1
     matrix.append(row)
-
+#
   return cycles, matrix, sorted_edges

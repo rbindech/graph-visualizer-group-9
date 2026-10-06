@@ -51,5 +51,5 @@ def get_fundamental_cutsets(graph):
       if normalized_edge in edge_to_index:
         row[edge_to_index[normalized_edge]] = 1
     matrix.append(row)
-
+#
   return cutsets, matrix, sorted_edges
